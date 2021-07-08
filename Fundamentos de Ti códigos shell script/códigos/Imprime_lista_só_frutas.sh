@@ -1,5 +1,5 @@
 #!/bin/bash
-valor=$( cut -c3-23 lista_de_compras.sh )
+valor=$( cut -c3-13 lista_de_compras.sh )
 echo $valor
 ______________________________
 Arquivo lista_de_compras.sh 
