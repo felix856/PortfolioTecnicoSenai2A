@@ -7,7 +7,8 @@
 ## Sobre mim
 ##Sou estudante do Senai do ensino médio integrado,tenho 16 anos , minhas habilidades atuais :
 ##- Aprendendo códigos da linguagem Java (inicial)
-##- Aprendendo códigos da linguagem de linux (inicial)
+##- Aprendendo códigos da linguagem de Linux (inicial)
+##- Aprendendo sobre linguagem sh
 ##- Aprendendo fundamentos de redes 
 
 <b> Formações:</b>
