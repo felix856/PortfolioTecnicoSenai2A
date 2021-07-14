@@ -2,7 +2,8 @@
 # PortfolioTecnicoSenai2A
  Nome:Félix Francisco
  
-[códigos](Fundamentos\ de\ Ti\ códigos\ shell\ script/)
+[códigos](Fundamentos_de_Ti_cod_sh/códigos/seq1-10.sh)
+[Code_java](Cod_Java/)
 
 ## Sobre mim
 ##Sou estudante do Senai do ensino médio integrado,tenho 16 anos , minhas habilidades atuais :
