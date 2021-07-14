@@ -2,7 +2,7 @@
 # PortfolioTecnicoSenai2A
  Nome:Félix Francisco
  
-[códigos](Fundamentos_de_Ti_cod_sh/códigos/seq1-10.sh)
+[códigos](Fundamentos_de_Ti_cod_sh/códigos/)
 [Code_java](Cod_Java/)
 
 ## Sobre mim
