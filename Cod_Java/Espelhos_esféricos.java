@@ -1,3 +1,4 @@
+#Developer: Félix Francisco
 import javax.swing.JOptionPane;
 
 public class Espelhosesféricos {
