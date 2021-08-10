@@ -4,6 +4,8 @@
  
 [códigos](Fundamentos_de_Ti_cod_sh/códigos/)
 [Code_java](Cod_Java/)
+ [exercicios_prova](PortfolioTecnicoSenai2A/Fundamentos_de_Ti_cod_sh/códigos/códigos_prova)
+[avaliação_pratica](PortfolioTecnicoSenai2A/Fundamentos_de_Ti_cod_sh/avaliacao_pratica)
 
 ## Sobre mim
 ##Sou estudante do Senai do ensino médio integrado,tenho 16 anos , minhas habilidades atuais :
