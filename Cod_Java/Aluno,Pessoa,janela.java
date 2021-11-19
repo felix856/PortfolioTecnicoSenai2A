@@ -52,10 +52,7 @@ public class Aluno extends Pessoa{
 import java.util.ArrayList;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author SESI_SENAI
- */
+
 public class Janela extends javax.swing.JFrame {
 
     ArrayList<Aluno> chamada = new ArrayList<>();
