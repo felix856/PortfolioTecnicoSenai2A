@@ -1,3 +1,4 @@
+##Dev:Félix Francisco
 create table fornecedor(
 cd int primary key,
 local_fornecedor varchar(30),
