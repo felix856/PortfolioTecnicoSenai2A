@@ -1,4 +1,4 @@
- 
+ ##Dev:Félix Francisco
 create table categorias(
 id serial primary key,
 descricao varchar(50),
