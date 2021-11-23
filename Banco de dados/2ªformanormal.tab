@@ -1,4 +1,5 @@
-  create table materia(
+ ##Dev:Félix Francisco
+ create table materia(
 cod_mat int primary key,
 nome_materia varchar(30)
 );
