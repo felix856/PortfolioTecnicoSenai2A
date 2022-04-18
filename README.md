@@ -8,7 +8,7 @@
 
 [codigos/Java](Cod_Java/)
 
-[coigos/BancoDeDados](Banco de dados/)
+[codigos/BD](Banco de dados/)
 ## Sobre mim
 ##Sou estudante do Senai do ensino médio integrado,tenho 17 anos , minhas habilidades atuais :
 ##- Aprendendo códigos da linguagem Java (inicial)
