@@ -1,10 +1,15 @@
 
 # PortfolioTecnicoSenaiDS
  Nome:Félix Francisco
-[Portfolio1TR2022](PortfolioTecnicoSenaiDS/Portfolio_2022/Trabalhos/)
+ 
+[Portfolio1TR2022](Portfolio_2022/Trabalhos/)
+
 [códigos](Fundamentos_de_Ti_cod_sh/códigos/)
+
 [Code_java](Cod_Java/)
- [exercicios_prova](PortfolioTecnicoSenaiDS/Fundamentos_de_Ti_cod_sh/códigos/códigos_prova)
+
+[exercicios_prova](PortfolioTecnicoSenaiDS/Fundamentos_de_Ti_cod_sh/códigos/códigos_prova)
+
 [avaliação_pratica](PortfolioTecnicoSenaiDS/Fundamentos_de_Ti_cod_sh/avaliacao_pratica)
  
 ## Sobre mim
