@@ -1,12 +1,12 @@
 
 # PortfolioTecnicoSenaiDS
  Nome:Félix Francisco
- 
+[Portfolio1TR2022](PortfolioTecnicoSenaiDS/Portfolio_2022/Trabalhos/)
 [códigos](Fundamentos_de_Ti_cod_sh/códigos/)
 [Code_java](Cod_Java/)
  [exercicios_prova](PortfolioTecnicoSenaiDS/Fundamentos_de_Ti_cod_sh/códigos/códigos_prova)
 [avaliação_pratica](PortfolioTecnicoSenaiDS/Fundamentos_de_Ti_cod_sh/avaliacao_pratica)
-[Código_Prisma.java](PortfolioTecnicoSenaiDS/Cod_Java/Código_Prisma.java) 
+ 
 ## Sobre mim
 ##Sou estudante do Senai do ensino médio integrado,tenho 17 anos , minhas habilidades atuais :
 ##- Aprendendo códigos da linguagem Java (inicial)
