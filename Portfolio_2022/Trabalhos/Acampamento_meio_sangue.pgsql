@@ -1,3 +1,4 @@
+ ##Dev:Félix Francisco
 ------------------Tabela Deuses---
 create table Deuses(
 cadeira int ,
