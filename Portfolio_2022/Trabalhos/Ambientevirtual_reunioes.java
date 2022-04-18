@@ -1,7 +1,7 @@
 //Matéria modelagem de dados
 // classe main
 
-https://app.diagrams.net/#G1XoVc2ZbH-6tWbmQLgqsUX4iZRS-HKX-V 
+// Diagrama - https://app.diagrams.net/#G1XoVc2ZbH-6tWbmQLgqsUX4iZRS-HKX-V 
 class Main {
   public static void main(String[] args) {
     System.out.println("Hello world!");
