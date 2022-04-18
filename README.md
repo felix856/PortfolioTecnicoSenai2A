@@ -8,7 +8,7 @@
 [avaliação_pratica](PortfolioTecnicoSenai2A/Fundamentos_de_Ti_cod_sh/avaliacao_pratica)
 
 ## Sobre mim
-##Sou estudante do Senai do ensino médio integrado,tenho 16 anos , minhas habilidades atuais :
+##Sou estudante do Senai do ensino médio integrado,tenho 17 anos , minhas habilidades atuais :
 ##- Aprendendo códigos da linguagem Java (inicial)
 ##- Aprendendo códigos da linguagem de Linux (inicial)
 ##- Aprendendo sobre linguagem sh
