@@ -5,7 +5,9 @@
 [Portfolio1TR2022](Portfolio_2022/Trabalhos/)
 
 [códigos/bash](Fundamentos_de_Ti_cod_sh/códigos/)
+
 [codigos/Java](Cod_Java/)
+
 [coigos/BancoDeDados](Banco de dados/)
 ## Sobre mim
 ##Sou estudante do Senai do ensino médio integrado,tenho 17 anos , minhas habilidades atuais :
