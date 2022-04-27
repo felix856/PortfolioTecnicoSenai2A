@@ -1,4 +1,5 @@
  ##Dev:Félix Francisco
+ ##Escolhi essa atividade , pelo motivo de ter usado o conteudo de FK e PK , e ter sido o projeto mais completo que fizemos ao decorrer do trimestre, envolvendo diagrama,Banco de Dados e criatividade
 ------------------Tabela Deuses---
 create table Deuses(
 cadeira int ,
