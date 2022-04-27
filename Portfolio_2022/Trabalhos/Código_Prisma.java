@@ -1,5 +1,7 @@
  ##Dev:Félix Francisco
+// Essa atividade foi escolhida por conta de usarmos mais equações e estruturas de repetição no codigo
 // Classe principal que cria o aplicativo,opções de escolha de cálculo
+
 package com.example.cheveroletgeoespacialprisma;
 
 import androidx.appcompat.app.AppCompatActivity;
