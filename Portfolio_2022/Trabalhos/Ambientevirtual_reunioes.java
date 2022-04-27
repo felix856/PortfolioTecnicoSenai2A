@@ -1,7 +1,6 @@
  ##Dev:Félix Francisco
 //Matéria modelagem de dados
-// classe main
-
+// A minha escolha foi por conta do tema que preferi fazer ser mais dinamico onde fiz o diagrama e o código do diagrama
 // Diagrama - https://app.diagrams.net/#G1XoVc2ZbH-6tWbmQLgqsUX4iZRS-HKX-V 
 class Main {
   public static void main(String[] args) {
