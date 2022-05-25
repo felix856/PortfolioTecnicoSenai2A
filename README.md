@@ -9,19 +9,25 @@
 [codigos/Java](Cod_Java/)
 
 [codigos/BD](Banco_de_dados/)
-## Sobre mim
-##Sou estudante do Senai do ensino médio integrado,tenho 17 anos , minhas habilidades atuais :
-##- Aprendendo códigos da linguagem Java (inicial)
-##- Aprendendo códigos da linguagem de Linux (inicial)
-##- Aprendendo sobre linguagem sh
-##- Aprendendo fundamentos de redes 
+
+# Sobre mim: 
+
+😀 Sou estudante do Senai do ensino médio,tenho 17 anos , minhas habilidades atuais :
+
+☕📱- Aprendendo a linguagem Java (Android Studio, NetBeans)
+## - Aprendi códigos do cmd do Linux (inicial)
+## - Aprendi sobre linguagem de shell do linux
+## - Aprendi sobre redes(protocolos,modelo Osi)
+## - Aprendendo Banco De Dados (relacionais e não relacionais)
+## - Diagramas de Modelagem de Sistemas (classe,uml,atividades)
+ 
 
 <b> Formações:</b>
 
-##- Ensino Fundamental completo
-##- inglês de nível Upper Intermediate
-##- Cursando o Ensio médio integrado ao técnico de Desenvolvimento de softwares e hardwares do Sesi/Senai-sc
-
+📘 Ensino Fundamental completo
+🇺🇸 inglês de nível Upper Intermediate
+🖥️ Cursando o Ensio Médio Integrado ao técnico de Desenvolvimento de softwares e hardwares do Sesi/Senai-sc
+## - Proa 
 <b> Compêtencias : </b>
 :
 *- Fiz curso de inglês por 5 anos (nivel:Intermediário alto) 
