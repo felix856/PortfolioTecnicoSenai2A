@@ -12,7 +12,7 @@
 
 # Sobre mim: 
 
-😀 Sou estudante do Senai do ensino médio,tenho 17 anos , minhas habilidades atuais :
+😀 Sou estudante do Senai do ensino médio,tenho 18 anos , minhas habilidades atuais :
 
 ☕📱- Aprendendo a linguagem Java (Android Studio, NetBeans)
 ## - Aprendi códigos do cmd do Linux (inicial)
@@ -27,7 +27,7 @@
 📘 Ensino Fundamental completo
 🇺🇸 inglês de nível Upper Intermediate
 🖥️ Cursando o Ensio Médio Integrado ao técnico de Desenvolvimento de softwares e hardwares do Sesi/Senai-sc
-## - Proa 
+
 <b> Compêtencias : </b>
 :
 *- Fiz curso de inglês por 5 anos (nivel:Intermediário alto) 
