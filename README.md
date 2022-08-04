@@ -13,7 +13,6 @@
 # Sobre mim: 
 
 😀 Sou estudante do Senai do ensino médio,tenho 18 anos , minhas habilidades atuais :
-
 ☕📱- Aprendendo a linguagem Java (Android Studio, NetBeans)
 ## - Aprendi códigos do cmd do Linux (inicial)
 ## - Aprendi sobre linguagem de shell do linux
